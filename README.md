@@ -8,7 +8,7 @@ I am an entry-level data scientist with a passion for uncovering insights from d
 
 - 🌱 I’m currently learning advanced machine learning algorithms and data visualization techniques.
 - 💼 I’m looking for opportunities to apply my skills in a professional setting.
-- 📫 How to reach me: [akbarfitriawan12@gmail.com] | [LinkedIn Profile](https://www.linkedin.com/in/akbar-fitriawan-53b9291b3/)
+- 📫 How to reach me: [Email](akbarfitriawan12@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/akbar-fitriawan-53b9291b3/)
 - 💬 Ask me about data preprocessing, feature engineering, and model evaluation.
 
 ## Skills
@@ -24,7 +24,7 @@ I am an entry-level data scientist with a passion for uncovering insights from d
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Predicting Car Insurance Claims](https://github.com/YourGitHubUsername/Project1)
+### [Project 1: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/Akbar-fitriawan-Insurance-Claims-Overs-Cars)
 A machine learning project to predict the likelihood of car insurance claims using various classification algorithms. This project involves data cleaning, feature engineering, model building, and evaluation.
 
 <!--### [Project 2: Customer Segmentation](https://github.com/YourGitHubUsername/Project2)
@@ -45,8 +45,6 @@ I also write about data science topics on my [Blog/Medium](https://medium.com/@Y
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akbar-fitriawan-53b9291b3/) or contact me on [Telegram](@Afitriawan). I'm always open to discussing data science, potential collaborations, or any interesting projects.
 
 ---
-
-By creating a profile like this, you showcase your skills, projects, and enthusiasm for data science, making it easier for potential employers to see your capabilities and fit for their roles.
 
 
 <!---
