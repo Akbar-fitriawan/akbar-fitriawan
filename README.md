@@ -13,9 +13,9 @@ I am an entry-level data scientist with a passion for uncovering insights from d
 
 ## Skills
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Scikit-learn
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Kibana
 - **Machine Learning:** Regression, Classification, Clustering, Ensemble Methods
 - **Deep Learning:** TensorFlow, Keras (basic knowledge)
 - **Tools:** Jupyter Notebook, Git, SQL
