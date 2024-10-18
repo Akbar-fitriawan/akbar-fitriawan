@@ -24,7 +24,7 @@ I am an entry-level data scientist with a passion for uncovering insights from d
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/bank_dopositTerm_prediction)
+### [Project 1: Bank Marketing Term Deposit Subscription Prediction](https://github.com/Akbar-fitriawan/bank_dopositTerm_prediction)
 This project aims to predict whether a customer will subscribe to a term deposit based on data from a bank's marketing campaign. Using machine learning techniques, we analyze customer data and campaign outcomes to build predictive models for binary classification.
 
 ### [Project 2: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/Akbar-fitriawan-Insurance-Claims-Overs-Cars)
