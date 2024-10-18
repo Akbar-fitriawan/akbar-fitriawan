@@ -24,8 +24,13 @@ I am an entry-level data scientist with a passion for uncovering insights from d
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/Akbar-fitriawan-Insurance-Claims-Overs-Cars)
+### [Project 1: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/bank_dopositTerm_prediction)
+This project aims to predict whether a customer will subscribe to a term deposit based on data from a bank's marketing campaign. Using machine learning techniques, we analyze customer data and campaign outcomes to build predictive models for binary classification.
+
+### [Project 2: Predicting Car Insurance Claims](https://github.com/Akbar-fitriawan/Akbar-fitriawan-Insurance-Claims-Overs-Cars)
 A machine learning project to predict the likelihood of car insurance claims using various classification algorithms. This project involves data cleaning, feature engineering, model building, and evaluation.
+
+
 
 <!--### [Project 2: Customer Segmentation](https://github.com/YourGitHubUsername/Project2)
 A clustering project to segment customers based on their purchasing behavior using K-means and hierarchical clustering. The project includes exploratory data analysis, feature selection, and clustering evaluation.
